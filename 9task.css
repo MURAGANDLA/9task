@@ -1,0 +1,92 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.nav1{
+    background-color: rgb(199, 241, 81);
+    height: 30px;
+}
+.nav2{
+    background-color: rgb(92, 209, 238);
+    margin-top: 10px;
+}
+.rr{
+    padding: 5px;
+}
+.menu{
+    float: right;
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    padding: 0px 20px;
+    color: rgb(16, 10, 10);
+    font-weight:bold ;
+}
+.box1{
+    background-color: rgb(241, 199, 134);
+    height: 310px;
+    width: 420px;
+    margin-top: 25px;
+    justify-content: right;
+}
+.head{
+    background-color: rgb(87, 86, 86);
+    color: rgb(215, 224, 232);
+    text-align: center;
+    padding: 5px;
+    margin-top: 0px;
+}
+p{
+    padding-left:10px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.gaimg{
+    margin-left: 70px;
+}
+img{
+  
+  padding: 12px 25px;
+}
+.company{
+    margin-left: 70px;
+
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+.boox1{
+    border:2px solid black;
+    height: 30px;
+    width: 190px;
+    margin: 3px 10px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(141, 218, 218);
+    padding: 4px;
+    color: rgb(201, 62, 62);
+}
+.order li a{
+    color: aliceblue;
+}   
+.foot{
+    display: flex;justify-content: space-around;
+    width: 1280px;
+
+}
+
+}
+footer{
+    background-color: rgb(144, 199, 199);
+    padding: 4px;
+}
+.sampimg{
+    background-color: rgb(78, 75, 75);
+    padding: 18px;
+    margin-left: 29px;
+}
